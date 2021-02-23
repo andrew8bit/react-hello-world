@@ -1,6 +1,7 @@
 // component
-import Animal from './Animal'
-import Human from './Human'
+import Animal from './Animal';
+import Human from './Human';
+import Car from './Car';
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
       <Animal mammal="dog" name="Rocco" />
       <Animal mammal="cat" name="Garfield" />
       <Human name="Andrew" location="Long Beach, CA" />
-      
+      <Car />
+ 
     </div>
   );
 }

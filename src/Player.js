@@ -1,3 +1,4 @@
+// functional component
 function Player(props) {
     return (
         <div>

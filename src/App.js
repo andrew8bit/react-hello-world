@@ -9,6 +9,7 @@ function App() {
       <Animal mammal="dog" name="Rocco" />
       <Animal mammal="cat" name="Garfield" />
       <Human name="Andrew" location="Long Beach, CA" />
+      
     </div>
   );
 }
